@@ -44,3 +44,5 @@
 *.bcf
 *.run.xml
 desktop.ini
+.tmp.drivedownload
+.tmp.driveupload
